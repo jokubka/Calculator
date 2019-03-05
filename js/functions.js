@@ -1,12 +1,10 @@
 "use strict";
 
 /**
- * @param somebody
- */
-
- /**
+ * Calculator main function
  * @param e - event
-*/
+ * @returns Not sure what :/
+ */
 function calc(e) {
     var btnValue = '',
         calcScreen = document.querySelector('.screen'),
@@ -198,5 +196,4 @@ function calc(e) {
         }
 
     }
-
 }
